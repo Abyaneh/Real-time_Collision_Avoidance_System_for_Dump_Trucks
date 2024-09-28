@@ -85,7 +85,7 @@ Contributions are welcome! To contribute:
 
 [Back to Top](#table-of-contents)
 
-## 🛡️ License
+## License
 This project is licensed under the **MIT License**. For more details, see the `LICENSE` file.
 
 [Back to Top](#table-of-contents)

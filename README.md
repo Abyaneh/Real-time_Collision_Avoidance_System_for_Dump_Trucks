@@ -67,7 +67,7 @@ To run the project locally, follow the steps below:
 - When objects enter the yellow or red hazard zones, the color of their bounding box will change accordingly.
 4. Exit and Save: Press q to stop the video and halt the code execution.
 5. Save the Output Video: After the code runs, the resulting video will be automatically saved as output_video.mp4.
-#### Running the Main Application
+##### Running the Main Application
 1. Run the main application:
 python main.py
 2. Real-time Detection: The system will process the camera feed, detecting both the vehicle’s speed and road conditions in real time.

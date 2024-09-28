@@ -67,6 +67,7 @@ Testing results in various conditions:
 
 ### Visual Examples
 - **Dynamic Hazard Zone in Dry Conditions:**
+
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output1.jpg)
   
 - **Expanded Hazard Zone in Wet Conditions:**

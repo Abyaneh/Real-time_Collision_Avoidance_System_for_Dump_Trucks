@@ -1,0 +1,2 @@
+# Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis-and-vehicle-speed
+ This project aims to enhance safety in open-pit mining by dynamically adjusting the hazard zone around dump trucks based on vehicle speed and road conditions. The system utilizes **YOLO** for object detection, **segmentation** models for identifying road surfaces, and **Transformers** for analyzing weather conditions like rain or snow. This real-time solution provides visual alerts, optimizing safety by scaling the hazard zone according to both road and speed conditions.

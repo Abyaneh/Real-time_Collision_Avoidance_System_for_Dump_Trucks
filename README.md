@@ -50,13 +50,29 @@ To run the project locally, follow the steps below:
 [Back to Top](#table-of-contents)
 
 ## Usage
-1. **Run the main application**:
-    ```bash
-    python main.py
-    ```
-2. **Real-time Detection**: The system will process the camera feed, detecting both the vehicle’s speed and road conditions in real time.
-3. **Visual Output**: The hazard zones (red and yellow) will dynamically adjust based on vehicle speed and road surface conditions (wet, snowy, etc.).
+### Ground Zone Instruction Manual
 
+#### Step 1: Setting up the Ground Zone Calibration
+1. **Open the Project**: Start by opening the `Ground_Zone` folder.
+2. **Access Calibration Code**: Open the `Ground_Zone_Calibration2.py` file. This section of the code is used to select the corner points of the yellow hazard zone. 
+3. **Specify Camera or Video Input**: In the code, locate the line:  
+   ```python
+   camera_port = 'Data/output6.mp4'
+4. Running the Calibration Code: After setting the video or camera input, run the code. The system will prompt you to select the four corner points of the yellow hazard zone in a clockwise direction, starting from the bottom-left corner. Use the mouse to click on each corner.
+5. Save and View Selected Points: Once the corner points are selected, their coordinates are saved in the console output and in the file selected_points.txt located in the Weights folder.
+#### Step 2: Running the Main Hazard Detection
+1. Open the Main Code: After selecting the points, open the Main02.py file.
+2. Specify Camera or Video Input: Similar to the calibration step, you can modify the camera_port to specify the input video or live camera feed.
+3. Run the Code: Once the input is set, run the file. The system will display two hazard zones (yellow and red) and detect objects within the field of view using the YOLOv9t model.
+- When objects enter the yellow or red hazard zones, the color of their bounding box will change accordingly.
+4. Exit and Save: Press q to stop the video and halt the code execution.
+5. Save the Output Video: After the code runs, the resulting video will be automatically saved as output_video.mp4.
+##### Running the Main Application
+1. Run the main application:
+python main.py
+2. Real-time Detection: The system will process the camera feed, detecting both the vehicle’s speed and road conditions in real time.
+3. Visual Output: The hazard zones (red and yellow) will dynamically adjust based on vehicle speed and road surface conditions (wet, snowy, etc.).
+   
 [Back to Top](#table-of-contents)
 
 ## Results
@@ -67,11 +83,22 @@ Testing results in various conditions:
 
 ### Visual Examples
 - **Dynamic Hazard Zone in Dry Conditions:**
-    ![Dry Conditions](./images/dry_conditions.png)
+
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output2.jpg)
+
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output1.jpg)
+
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output3.jpg)
+
+
 - **Expanded Hazard Zone in Wet Conditions:**
-    ![Wet Conditions](./images/wet_conditions.png)
-  
-[Watch the Demo Video](./videos/demo.mp4)
+
+#### Snooz
+![Wet Conditions](./images/wet_conditions.png)
+
+- **Video output:**
+
+[Watch the Demo Video](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output_video.mp4)
 
 [Back to Top](#table-of-contents)
 

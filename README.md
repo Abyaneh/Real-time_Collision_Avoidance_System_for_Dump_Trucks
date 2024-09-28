@@ -86,6 +86,6 @@ Contributions are welcome! To contribute:
 [Back to Top](#table-of-contents)
 
 ## License
-This project is licensed under the **MIT License**. For more details, see the `LICENSE` file.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/LICENSE) file for details.
 
 [Back to Top](#table-of-contents)

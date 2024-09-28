@@ -47,6 +47,9 @@ To run the project locally, follow the steps below:
     pip install -r requirements.txt
     ```
 
+[Requirements](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/requirements.txt)
+
+
 [Back to Top](#table-of-contents)
 
 ## Usage

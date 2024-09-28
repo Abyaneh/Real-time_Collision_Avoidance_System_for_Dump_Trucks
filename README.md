@@ -78,7 +78,7 @@ Testing results in various conditions:
 - **Expanded Hazard Zone in Wet Conditions:**
     ![Wet Conditions](./images/wet_conditions.png)
   
-[Watch the Demo Video](./videos/demo.mp4)
+[Watch the Demo Video](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output_video.mp4)
 
 [Back to Top](#table-of-contents)
 

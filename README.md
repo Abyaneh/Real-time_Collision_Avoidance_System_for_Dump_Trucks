@@ -79,7 +79,9 @@ Testing results in various conditions:
 
 #### Snooz
 ![Wet Conditions](./images/wet_conditions.png)
-  
+
+- **Video output:**
+
 [Watch the Demo Video](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output_video.mp4)
 
 [Back to Top](#table-of-contents)

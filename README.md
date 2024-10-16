@@ -18,7 +18,7 @@ This project aims to enhance safety in open-pit mining by dynamically adjusting 
 ## Features
 - **Dynamic Hazard Zone Adjustment**: The hazard zone automatically scales based on vehicle speed and road conditions.
 - **Real-Time Road Condition Detection**: Integrates segmentation and Transformers to detect environmental conditions such as rain or snow.
-- **Object Detection**: Uses YOLO to detect dump trucks, obstacles, and other objects in real time.
+- **Object Detection**: Uses YOLO to detect dump trucks, obstacles, and other objects in real-time.
 - **Visual Feedback**: Provides immediate, real-time visual alerts with clear hazard zone indicators.
 - **Scalable for Industrial Use**: Tailored for large-scale environments like open-pit mines, with real-time adaptability.
 
@@ -26,7 +26,7 @@ This project aims to enhance safety in open-pit mining by dynamically adjusting 
 
 ## Inputs
 - **Camera Feed**: Real-time video input for detecting vehicles and road conditions.
-- **Vehicle Speed Data**: Input data from speed sensors or camera-based tracking for determining vehicle velocity.
+- **Vehicle Speed Data**: Input data from speed sensors or camera-based tracking to determine vehicle velocity.
 - **Weather Condition Data**: Road surface detection using segmentation and Transformer models.
 
 [Back to Top](#table-of-contents)

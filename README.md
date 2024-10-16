@@ -36,11 +36,11 @@ To run the project locally, follow the steps below:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Abyaneh/dump-truck-hazard-zone.git
+    git clone https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/README.md
     ```
 2. Change directory to the project folder:
     ```bash
-    cd dump-truck-hazard-zone
+    cd dump-Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis
     ```
 3. Install the required dependencies:
     ```bash

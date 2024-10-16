@@ -85,7 +85,7 @@ Testing results in various conditions:
 - **Real-Time Alerts**: Immediate visual cues when entering hazardous zones, enhancing operator awareness and reducing risk.
 
 ### Visual Examples
-- **Dynamic Hazard Zone in Dry Conditions:**
+- **Hazard Zone in Dry Conditions:**
 
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output2.jpg)
 

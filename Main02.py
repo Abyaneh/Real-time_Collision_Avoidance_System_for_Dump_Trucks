@@ -18,8 +18,11 @@ from Ground_Zone import Ground_Zone as gz
 ########Change these
 camera_port ='Data/output6.mp4' #'Data/videos/test.mp4' #'
 realtime = True#False
-yolo_model = YOLO('Weights/yolov9t.pt')
-
+yolo_model = YOLO('Weights/yolov9t.pt')   
+'''
+You can change yolov9t.pt to yolo11n.pt or any yolo version you want 
+Note: I uploaded five yolo versions, if you want another version, you need to download it first
+'''
 
 # Function to perform object detection on an image
 def detect_objects(image):

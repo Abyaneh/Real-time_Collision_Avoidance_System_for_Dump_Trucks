@@ -47,6 +47,9 @@ To run the project locally, follow the steps below:
     pip install -r requirements.txt
     ```
 
+[Requirements](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/requirements.txt)
+
+
 [Back to Top](#table-of-contents)
 
 ## Usage
@@ -63,7 +66,7 @@ To run the project locally, follow the steps below:
 #### Step 2: Running the Main Hazard Detection
 1. Open the Main Code: After selecting the points, open the Main02.py file.
 2. Specify Camera or Video Input: Similar to the calibration step, you can modify the camera_port to specify the input video or live camera feed.
-3. Run the Code: Once the input is set, run the file. The system will display two hazard zones (yellow and red) and detect objects within the field of view using the YOLOv9t model.
+3. Run the Code: Once the input is set, run the file. The system will display two hazard zones (yellow and red) and detect objects within the field of view using the YOLOv9t model. ( You can change yolov9t.pt to yolo11n.pt or any yolo version you want )
 - When objects enter the yellow or red hazard zones, the color of their bounding box will change accordingly.
 4. Exit and Save: Press q to stop the video and halt the code execution.
 5. Save the Output Video: After the code runs, the resulting video will be automatically saved as output_video.mp4.
@@ -85,8 +88,6 @@ Testing results in various conditions:
 - **Dynamic Hazard Zone in Dry Conditions:**
 
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output2.jpg)
-
-![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output1.jpg)
 
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output3.jpg)
 

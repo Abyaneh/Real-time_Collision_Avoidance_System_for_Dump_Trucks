@@ -89,7 +89,7 @@ Testing results in various conditions:
 
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output2.jpg)
 
-<img src="https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output1.jpg" alt="Final_Assembled_Device" width="400"/>
+<img src="https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output1.jpg" alt="Final_Assembled_Device" width="500"/>
 
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output3.jpg)
 

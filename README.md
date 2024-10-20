@@ -87,9 +87,11 @@ Testing results in various conditions:
 ### Visual Examples
 - **Hazard Zone in Dry Conditions:**
 
-![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output2.jpg)
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output2.jpg)
 
-![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output3.jpg)
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output1.jpg)
+
+![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output3.jpg)
 
 
 - **Expanded Hazard Zone in Wet Conditions:**
@@ -99,9 +101,7 @@ Testing results in various conditions:
 
 - **Video output:**
 
-[Watch the Demo Video](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/output_video.mp4)
-
-[Back to Top](#table-of-contents)
+[Watch the Demo Video](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/video/output_video.mp4)
 
 ## Contributing
 Contributions are welcome! To contribute:

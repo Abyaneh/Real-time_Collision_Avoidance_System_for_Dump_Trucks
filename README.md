@@ -11,23 +11,22 @@
 - [License](#license)
 
 ## Introduction
-This project aims to enhance safety in open-pit mining by dynamically adjusting the hazard zone around dump trucks based on vehicle speed and road conditions. The system utilizes **YOLO** for object detection, **segmentation** models for identifying road surfaces, and **Transformers** for analyzing weather conditions like rain or snow. This real-time solution provides visual alerts, optimizing safety by scaling the hazard zone according to both road and speed conditions.
+This project aims to enhance safety in open-pit mining by dynamically adjusting the hazard zone around dump trucks based on vehicle speed and road conditions. The system utilizes **YOLO** for object detection, **segmentation** models for identifying road surfaces, and **Classifer** for analyzing weather conditions like rain or snow. This real-time solution provides visual alerts to enhance situational awareness and helps prevent accidents in the mining environment.
 
 [Back to Top](#table-of-contents)
 
 ## Features
 - **Dynamic Hazard Zone Adjustment**: The hazard zone automatically scales based on vehicle speed and road conditions.
-- **Real-Time Road Condition Detection**: Integrates segmentation and Transformers to detect environmental conditions such as rain or snow.
-- **Object Detection**: Uses YOLO to detect dump trucks, obstacles, and other objects in real time. ( Mr. Mohtashami has collected and trained the dataset for the dump truck.)
+- **Real-Time Road Segmentation and Road Condition Detection**: Integrates segmentation and classification to segment road surface and detect environmental conditions such as rain or snow.
+- **Object Detection**: Uses YOLO to detect dump trucks, obstacles, and other objects in real time. (by Mr. Mohtashami)
 - **Visual Feedback**: Provides immediate, real-time visual alerts with clear hazard zone indicators.
-- **Scalable for Industrial Use**: Tailored for large-scale environments like open-pit mines, with real-time adaptability.
 
 [Back to Top](#table-of-contents)
 
 ## Inputs
 - **Camera Feed**: Real-time video input for detecting vehicles and road conditions.
 - **Vehicle Speed Data**: Input data from speed sensors or camera-based tracking to determine vehicle velocity.
-- **Weather Condition Data**: Road surface detection using segmentation and Transformer models.
+- **Weather Condition Data**: For weather detection including dry, wet, and snowy.
 
 [Back to Top](#table-of-contents)
 

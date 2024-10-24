@@ -96,7 +96,7 @@ Testing results in various conditions:
 
 - **Expanded Hazard Zone in Wet Conditions:**
 
-#### Snooz
+#### Coming soon
 ![Wet Conditions](./images/wet_conditions.png)
 
 - **Video output:**

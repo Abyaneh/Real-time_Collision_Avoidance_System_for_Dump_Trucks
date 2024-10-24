@@ -39,7 +39,8 @@ To run the project locally, follow the steps below:
     ```
 2. Change directory to the project folder:
     ```bash
-    cd dump-Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis
+    cd Real-time_Collision_Avoidance_System_for_Dump_Trucks
+    
     ```
 3. Install the required dependencies:
     ```bash

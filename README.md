@@ -35,7 +35,7 @@ To run the project locally, follow the steps below:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/README.md
+    https://github.com/Abyaneh/Real-time_Collision_Avoidance_System_for_Dump_Trucks
     ```
 2. Change directory to the project folder:
     ```bash

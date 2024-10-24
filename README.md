@@ -1,4 +1,4 @@
-# Dynamic Dump Truck Hazard Zone Detection with Road Condition Analysis
+# Real-time Collision Avoidance Smart System for Dump Trucks using Deep Learning
 
 ## Table of Contents
 - [Introduction](#introduction)

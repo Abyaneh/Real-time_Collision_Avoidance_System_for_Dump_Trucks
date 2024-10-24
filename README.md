@@ -26,7 +26,7 @@ This project aims to enhance safety in open-pit mining by dynamically adjusting 
 ## Inputs
 - **Camera Feed**: Real-time video input for detecting vehicles and road conditions.
 - **Vehicle Speed Data**: Input data from speed sensors or camera-based tracking to determine vehicle velocity.
-- **Weather Condition Data**: For weather detection including dry, wet, and snowy.
+- **Weather Condition Data**: For weather detection including dry, wet, and snowy weather.
 
 [Back to Top](#table-of-contents)
 
@@ -94,7 +94,7 @@ Testing results in various conditions:
 ![Dry Conditions](https://github.com/Abyaneh/Dynamic-Dump-Truck-Hazard-Zone-Detection-with-Road-Condition-Analysis/blob/main/photos/output3.jpg)
 
 
-- **Expanded Hazard Zone in Wet Conditions:**
+- **Expanded Hazard Zone in Wet/Snowy Conditions:**
 
     - Coming soon
 

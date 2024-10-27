@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-This project aims to enhance safety in open-pit mining by dynamically adjusting the hazard zone around dump trucks based on vehicle speed and road conditions. The system utilizes **YOLO** for object detection, **segmentation** models for identifying road surfaces, and **Classifer** for analyzing weather conditions like rain or snow. This real-time solution provides visual alerts to enhance situational awareness and helps prevent accidents in the mining environment.
+This project aims to enhance safety in open-pit mining by dynamically adjusting the hazard zone around dump trucks based on vehicle speed and road conditions. The system utilizes **YOLO** for object detection, **segmentation** models for identifying road surfaces, and **Classifier** for analyzing weather conditions like rain or snow. This real-time solution provides visual alerts to enhance situational awareness and helps prevent accidents in the mining environment.
 
 [Back to Top](#table-of-contents)
 
